@@ -1,5 +1,3 @@
-Yes — this content can be made much cleaner and more professional for a GitHub repository while keeping your original idea and wording. Here is a **ready-to-paste `README.md`**.
-
 # 🚀 Mission DSA
 
 Welcome to **Mission DSA** — my personal journey of mastering **Data Structures and Algorithms** through consistent problem solving.
